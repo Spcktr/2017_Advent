@@ -4,3 +4,7 @@ version = "0.1.0"
 authors = ["Spcktr <http://spcktr.github.io>"]
 
 [dependencies]
+regex = "0.2.3"
+lazy_static = "1.0"
+indoc = "0.2"
+num = "0.1.41"
